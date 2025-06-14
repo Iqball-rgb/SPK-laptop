@@ -16,11 +16,11 @@ Metode yang digunakan:
 - Hapus seluruh data pengguna
 
 ## 📁 Struktur File
-- `spk_laptop_landing_final.py` : file utama aplikasi Streamlit
+- `web.py` : file utama aplikasi Streamlit
 - `requirements.txt` : dependensi yang dibutuhkan
 - `README.md` : dokumentasi proyek
 
 ## 🚀 Cara Menjalankan di Lokal
 ```bash
 pip install -r requirements.txt
-streamlit run spk_laptop_landing_final.py
+streamlit run web.py
