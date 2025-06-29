@@ -7,6 +7,7 @@
   Aplikasi web interaktif untuk membantu pengguna memilih laptop terbaik berdasarkan kriteria dan preferensi pribadi menggunakan metode Weighted Product (WP) dan Multi-Attribute Utility Theory (MAUT).
 </p>
 
+## 🔗[Preview](https://pilihlaptop.streamlit.app/) <br>
 ---
 
 ## 🚀 Deskripsi Proyek
