@@ -54,8 +54,7 @@ Metode WP melakukan perhitungan dengan perkalian, di mana setiap kriteria dipang
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
-    cd nama-repo
+    git clone https://github.com/Iqball-rgb/SPK-laptop.git
     ```
 
 2.  **Buat dan Aktifkan Virtual Environment** (direkomendasikan)
@@ -70,15 +69,13 @@ Metode WP melakukan perhitungan dengan perkalian, di mana setiap kriteria dipang
     ```
 
 3.  **Install Dependensi**
-    Pastikan Anda memiliki file `requirements.txt` di dalam folder.
     ```bash
     pip install -r requirements.txt
     ```
 
 4.  **Jalankan Aplikasi Streamlit**
-    Ganti `nama_file.py` dengan nama file Python utama Anda.
     ```bash
-    streamlit run nama_file.py
+    streamlit run web.py
     ```
 
 ---
