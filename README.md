@@ -1,7 +1,7 @@
 # Sistem Pendukung Keputusan (SPK) Pemilihan Laptop
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/logo2.png" alt="Logo SPK Laptop" width="150">
+  <img src="https://github.com/Iqball-rgb/SPK-laptop/blob/d84dc885b0ce1a2495d28eb70a81a30defb421bd/logo2.png" alt="Logo SPK Laptop" width="150">
 </p>
 <p align="center">
   Aplikasi web interaktif untuk membantu pengguna memilih laptop terbaik berdasarkan kriteria dan preferensi pribadi menggunakan metode Weighted Product (WP) dan Multi-Attribute Utility Theory (MAUT).
